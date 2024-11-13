@@ -41,7 +41,7 @@ Ensure you have Solidity 0.8.0 or later installed to use this smart contract.
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/your-repo.git
+    https://github.com/ChanandakaTagore/Blockchain-Ca2.git
     ```
 
 2. Install [OpenZeppelin contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) as dependencies:
